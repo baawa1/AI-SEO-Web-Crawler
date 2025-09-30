@@ -1,0 +1,5 @@
+{
+  "name": "AI SEO Web Crawler",
+  "description": "A simple, AI-powered website crawler to analyze your website's on-page SEO. Enter a URL to get a detailed report on titles, descriptions, headers, and more for your site's pages.",
+  "requestFramePermissions": []
+}
